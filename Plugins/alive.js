@@ -70,7 +70,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 menu[commands[i].category] += `│   .${commands[i].pattern}\n`;
             }
         }
-        let desc = `*👋 HII SUDU HAPPY NEW YEAR ${pushname}*
+        let desc = `*👋 HII SUDU HAVE A NICE DAY ${pushname}*
      
      *|I'm SIMI MD CREAT BY DILA AND W.U OFC*
 
