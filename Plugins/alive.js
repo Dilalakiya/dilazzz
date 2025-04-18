@@ -91,6 +91,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *│ 9   OTHER*😈
 *╰─────────
 🔢 Reply below number
+*GITHUB REPO https://github.com/Dilalakiya/dilazzz*
 > ᴘᴏᴡᴇʀᴇᴅ ʙʏ simi-ᴍᴅ`;
 
 
